@@ -9,7 +9,7 @@ Braeden Thompson (Programmer)
 
 Chase Perez (Level Designer)
 
-Artist Role is currently being filled by the team.
+Donald Richardson (Artist)
 
 ------------------------------------------------------------
 # Module Two Team Project Plan:
@@ -84,3 +84,92 @@ Team Red's Traceability Matrix:
 https://docs.google.com/spreadsheets/d/1XSS3Rk1OSB4AgOmefKghWvWbpqhSpti_tmhQQzoEIo0/edit?usp=sharing
 
 ------------------------------------------------------------
+# Module Three QA and Testing Plan:
+
+## How will we Test?
+
+We should test objects such as the Player's weapon(s), AI behavior, and the power ups to ensure they work correctly. 
+For the level we should make sure everything works, such as the pathing for enemies or UV mapping is functional. For 
+the game itself we should test the entire game build to ensure there is no progression blocks or accidental progression
+when it isn't supposed to.
+
+•	Play Test/Preproduction Phase - We should test core mechanics gameplay loops, and the usability of the game. This
+includes Enemy remaining counter for progression, enemies that are functioning, a projectile spawn location for our
+weapon, a level that we can be mobile in, and a damage/health system for the AI and Player.
+
+•	Demo/Marketing Phase -  We should ensure that the build is stable with the least amount of bugs possible and our
+team will be testing the Demo. Another thing we may do is allow friends or family to test the Demo.
+
+•	Code Release/Public Release Phase - We should conduct rigorous testing to ensure all final features are completed and
+stable with commenting including with all code to ensure readability in case of issues after release. The testing can 
+be done within our team and as well with friends and family again as a sort of closed beta.
+
+## Item Test Log
+
+Gameplay Mechanics:
+------------------------------------------------------------
+
+•	Player Movement
+
+•	Player Weapon
+
+•	User Interface
+
+•	AI Functionality
+
+Level Design:
+------------------------------------------------------------
+
+•	No Invisible Holes or Tears
+
+•	Accurate Collision Detection
+
+•	The Player can't get Stuck
+
+
+Stability:
+------------------------------------------------------------
+
+•	Game doesn't Crash
+
+•	Game can be Completed from Start to Finish without Blocking Errors
+
+•	No Memory Leaks
+
+Visuals:
+------------------------------------------------------------
+
+•	All Textures and Assets are Loaded Correctly
+
+•	Lighting and Shadows are Consistent
+
+•	Smooth Animation (Basic)
+
+Sound:
+------------------------------------------------------------
+
+•	All Sound Effects are Correct and Present if Needed
+
+•	Music is Seamless if Needed
+
+•	Audio is Balanced Correctly
+
+Compatibility:
+------------------------------------------------------------
+
+•	Input Methods as Intended without Errors
+
+## How to Update & Report Test Plan
+
+We will be updating the test plan from within Team Red's Traceability Matrix where we have added the test plan. This
+will be done frequently to ensure testing is being done as we progress to avoid major bugs or errors. As well, bugs 
+will be reported inside the Test Plan and the Discord in order to ensure smooth fixing of the bug or errors to stay
+on track for submission. Essentially a title of the Bug with a description, severity of the bug, and then updates or
+resolutions on the bug.
+
+## How Bugs will be Tracked
+
+For Bug tracking I will be adding another category into the Matrix for Bug Tracking.
+
+------------------------------------------------------------
+
