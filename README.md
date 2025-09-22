@@ -169,7 +169,9 @@ resolutions on the bug.
 
 ## How Bugs will be Tracked
 
-For Bug tracking I will be adding another category into the Matrix for Bug Tracking.
+For Bug tracking I will be adding another category into the Matrix for Bug Tracking. This will be done to show when
+it popped up, when it was closed as solved, if it showed back up, and any other conflictions linked to the bug. This
+will also be labeled as who discovered it and what asset or object it is attached to.
 
 ------------------------------------------------------------
 
