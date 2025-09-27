@@ -9,8 +9,6 @@ Braeden Thompson (Programmer)
 
 Chase Perez (Level Designer)
 
-Donald Richardson (Artist)
-
 ------------------------------------------------------------
 # Module Two Team Project Plan:
 
@@ -174,4 +172,51 @@ it popped up, when it was closed as solved, if it showed back up, and any other 
 will also be labeled as who discovered it and what asset or object it is attached to.
 
 ------------------------------------------------------------
+# Module Four Team Reflection and Alpha Release:
 
+## What parts of the testing process did the team perceive to go well
+
+I believe that quite a few parts went pretty well as the upgrades were as simple as just adding some code logic to 
+allow it to work on the player to restore armor and health. The Player Movement and Dashing was as simple as it just 
+took a bit of extra code to fix the movement and then some adjusting for dash speed. The Melee Enemy does well with 
+attacking the Player and dealing correct damage and the Level Design has come out great with the layout.
+
+## How were bugs identified and corrected
+
+Most bugs were identified via the testing process, such as player movement not allowing movement when looking down 
+or up and then fixing it was simple with some additional rotation code to the movement. However, for the Enemy Spawner
+we had some pretty bad bugs such as accidentally causing an infinite loop that crashed Unreal Engine 5, which was then
+fixed by adding limits and delay to the code. Another way that bugs were identified was via the output log where it 
+gave important information on runtime errors that were occurring in the program. Here, fixing it was as simple as 
+clicking the location of the error and then looking for ways to fix it. Such as with the Enemy Spawner, it was throwing
+this error every time the spawner was destroyed and then the enemy spawned from it was hit. Fixing it was as simple as 
+adding if statements to prevent it from occurring and doing the correct action.
+
+## In terms of QA and testing process, what would you do differently to improve the process
+
+I believe what we are doing for the QA and testing process is great already. However, most things can always be improved 
+on, and I believe more frequent testing between minor or major additions to the game is a great addition to improving 
+the process. This can be done by adding for an example the ammo pool and ammo Pickup and after adding the pool for the 
+first time it needs to be tested. After this we find what is wrong and then fix that and then test again. With this we 
+can improve the process to ensure each game mechanic is almost 100% bug free.
+
+## What tools (Chosen in Module Two) did you find successful in the development of your Alpha Project? Why?
+
+We found that the Traceability Matrix and Test Plan Document in Google Sheets worked great with organizing progression 
+for pieces of the game’s development. The Test Plan was used to help document Bugs or Runtime Errors alongside the 
+resolution to ensure we know how it was fixed in case it comes back. The Traceability Matrix was used to organize tasks
+for the team to ensure pieces of the game were completed in time for the Alpha phase. Discord also played a part in our
+communication tool to stay in contact with each other in case someone ran into an issue, wasn’t going to be present for 
+a while, or what was completed or updated.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+I believe that all the tools and techniques that we used for our project development were helpful as it helped the team
+stay organized, on task of development completion, and was easy for us to stay in contact with each other. Discord 
+helped with sharing information, staying organized with development progression, and assignment completion. Google Sheets
+helped with task organization, test planning, and bug/error resolution handling.
+
+## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+We approached an initial analysis of the game design document due to what we previously used in other courses throughout 
+our time at SNHU. 
