@@ -218,5 +218,8 @@ helped with task organization, test planning, and bug/error resolution handling.
 
 ## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 
-We approached an initial analysis of the game design document due to what we previously used in other courses throughout 
-our time at SNHU. 
+We approached an initial analysis of the game design document due to what we previously used in other courses throughout
+our studying at SNHU. We came together in Discord chat when we started and discussed ways to keep track of tasks, features,
+and roles. Google Sheets was brought up as a way to organize all of this, with the utilization of a Traceability Matrix
+and a Test Plan Sheet. This approach helped contribute to our decesion of what tools and techniques were to be used in
+order to ensure a optimal, organized, and rapid game development process.
