@@ -17,13 +17,13 @@ Chase Perez (Level Designer)
 Our team's game will be a single level designed around the player being shrunk and inserted into a cybernetic body
 to locate and eliminate various viruses. Additional elements for the game includes:
 
-•	Teleporters for traversing from area to area around the level.
+•	Jump Pads to progress to and from areas.
 
 •	Health, Armor, and Ammo Pick-ups
 
 •	Virus Reproduction from static spawners that spawn to a cap till destroyed.
 
-•	Capillaries for hiding away from enemies if the player becomes overwhelmed.
+•	Minimap for Virus Tracking
 
 ## Prefered Scenario Content
 
@@ -223,3 +223,51 @@ our studying at SNHU. We came together in Discord chat when we started and discu
 and roles. Google Sheets was brought up as a way to organize all of this, with the utilization of a Traceability Matrix
 and a Test Plan Sheet. This approach helped contribute to our decesion of what tools and techniques were to be used in
 order to ensure a optimal, organized, and rapid game development process.
+
+------------------------------------------------------------
+# Module Five Team Reflection and Alpha Release:
+
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+
+I believe what went well in relation to the last stage evaluation would be starting with the Mini-Map. I think it came out
+really great and acts as a good mechanic feature to not only show what is around the player, but to also add a way to keep 
+track of enemies for the game win condition. Also, the Main Menu came out well with functioning animation and level/game 
+loading. 
+
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+
+I believe what went wrong in relation to the last stage evaluation would be the Ranged Enemy. For some reason, the enemy 
+wouldn’t function correctly and would decide when it wanted to fire their weapon. After a lot of trying to fix it, we 
+decided to just reset it and start over on the Ranged Enemy, which got it working. This must have been a weird bug or some 
+check box that was hit and didn’t allow for it to function as intended. Another part that went wrong was the teleporters, 
+which we will go into more later, but we switched to jump pads to keep the flow of the level a bit more hastened.
+
+## How were the previous evaluations integrated into this latest stage?
+
+From the previous evaluations integrated from the Alpha stage into this stage we added walls around the level to prevent 
+players from just falling off the map. Also, we added the Win Condition Screen and added Text for when the Player dies to 
+the enemies. From this we also agreed that we didn’t want to use teleporters and instead wanted to use jump-pads to go from 
+area to area, to keep the flow of the game to be faster paced. With these integrations we identified pain points of the 
+level and made sure to improve on playability.
+
+## What would you do differently to improve the collaboration or development process?
+
+I think something that could be done differently to improve collaboration would have been to have everyone do a segment of
+each Project Log, instead of one focusing on it at a time, and doing it during a voice call. This would ensure that everyone 
+is on the same page and has similar thoughts without anyone feeling left out. As well, something different about the
+development process would be to have more time to work on the assignment, as if I personally had more time than I would be
+able to improve how the project came out. If not, then perhaps spread out the work of each week’s progress over a week 
+instead of burning through it in a couple days.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+Our experience with tools and techniques that we used in the success of our project development were the same from when we were
+asked this in Alpha. The only real addition is that our Level Designer utilized Fab through Unreal Engine to get Textures for
+our level. This was very helpful as it helped bring the level to life, rather than just being colors or even just colorless shapes.
+
+## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+
+The completed stage of development of the intended Beta is a Fully Textured and Laid out level with 20 enemies and enemy spawners
+that the player must destroy in order to win the level. This will include the features of Dashing, 3 variant enemies, and jump
+pads alongside a relatable environment to the game synapse. 
+
