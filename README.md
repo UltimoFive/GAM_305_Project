@@ -271,3 +271,41 @@ The completed stage of development of the intended Beta is a Fully Textured and 
 that the player must destroy in order to win the level. This will include the features of Dashing, 3 variant enemies, and jump
 pads alongside a relatable environment to the game synapse. 
 
+------------------------------------------------------------
+# Module Six Team Reflection and Final Release:
+
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+
+In this current stage of the game development, I would say a lot has been going well as we are polishing and adding additional 
+content. This includes a small royalty free soundtrack with sound effects that match what is going on in game such as shooting 
+or footsteps. We are adding additional details to buildings and the environment around the player to help with bringing the 
+game to life as well. Most likely we will be adding some models to the power ups along with some coloring!
+
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+
+Surprisingly nothing much has gone wrong in relation to the last stage evaluation as everything is working out well and is quite 
+simple. We are just adding more textures, sound, and even music to improve the game even further into an immersive experience 
+for the player. However, near the end music was having issues with fading in and out appropriatly, in which the solution was just
+that it needed to match the delay exactly rather than being a bit shorter than the delay node.
+
+## How were the previous evaluations integrated into this latest stage?
+
+From the previous evaluations integrated from the Beta stage into this stage we don’t currently have any other than the additions
+of more texturing and sound for the game. We made a gigantic improvement from our Alpha’s evaluation and even our Beta evaluation
+where we finished up the level terrain, AI Programming, Interfacing, and even more.
+
+## What would you do differently to improve the collaboration or development process?
+
+Currently I believe we have made great strides in improving the collaboration of the project amongst our group. This was achieved
+by discussing features or tasks more in voice calls and also is how we handled bugs or issues we came across as we went to each 
+other for help to ensure a steady development process. So, I don’t think we will do anything different for collaboration. For the
+development process, I believe we are doing great with achieving tasks of finishing features and even made great strides in 
+improvement from Beta to Final Submission.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+  
+Just like last week our experience with utilizing the tools and techniques in our project was a success. This is the same 
+as when we were asked in the Beta and still include Fab through Unreal Engine for not only textures but now it is being used 
+for sounds. I believe I could also utilize YouTube’s Audio Library for Royalty Free music in the OST as I was a partner and
+have access to it. All of these tools helped bring the project to life and create a great game for the group to develop.
+
